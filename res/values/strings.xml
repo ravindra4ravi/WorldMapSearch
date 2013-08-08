@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WorldMapSearch</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+   
+<string name="googleapikey">AIzaSyAN6efkcGqsx_pLPcSwjN0u3s16_lYTTP8</string>
+
+
+<string name="connecting_location_services"></string>
+    <string name="connected_location_services">Connected to Location Services !</string>
+    <string name="disconnected">Disconnected from Location Services. Re-launch the application. </string>
+    <string name="no_google_services_apk">Google Play Services application is not installed in your Android device !</string>
+    <string name="non_supported_opengl">Your device does not support OPEN GL ES 2.0 apps !</string>
+	<string name="location_client_error">Location Client is null !</string>
+	<string name="location_request_error">Location Request is null !</string>
+</resources>
